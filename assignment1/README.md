@@ -1,4 +1,4 @@
-### Course projects for CS182/CS231N 
+### Deep Learning Course Projects
 
 ### Q1: Fully-connected Neural Network
 ### Q2: Batch Normalization 
